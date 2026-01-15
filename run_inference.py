@@ -29,5 +29,3 @@ generated_ids = [
 
 response = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
 print("\nResponse:\n", response)
-
-https://prod.liveshare.vsengsaas.visualstudio.com/join?17FCAAD043B5D04E520AC93BD19F9B84A8D2
